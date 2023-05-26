@@ -1,0 +1,25 @@
+
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    background-color: brown;
+    width: min-content;
+    padding:10px;
+    border-radius: 10px;
+    margin-top: 50px;
+
+}
+
+.input{
+    margin: 10px;
+}
+
+.button{
+    border-radius: 20px;
+    color: white;
+    background-color: blueviolet;
+
+
+}
